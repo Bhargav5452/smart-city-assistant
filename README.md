@@ -31,3 +31,15 @@ Smart City Sustainability Assistant is a AI-powered tool built using IBM Granite
    Start the Streamlit app using a public URL tunnel.
 
 When the notebook finishes running, copy the provided public URL and open it in your browser to access the Streamlit app UI.
+
+# output
+![Screenshot 2025-05-27 162518](https://github.com/user-attachments/assets/300cd126-6392-4299-9418-da0826aed03f)
+![Screenshot 2025-05-27 162708](https://github.com/user-attachments/assets/2f3931a1-eb44-4d9a-8834-f06fcbeb491a)
+![Screenshot 2025-05-27 162745](https://github.com/user-attachments/assets/c78f7b80-e7bb-4b8d-8620-ac8f26c9c5ee)
+![Screenshot 2025-05-27 162803](https://github.com/user-attachments/assets/7c057e8a-eb0f-4e65-a348-33ff5cd1cbe2)
+![Screenshot 2025-05-27 162842](https://github.com/user-attachments/assets/a25ada7b-0b4d-4dbf-b20f-f1b76e7ec2f1)
+![Screenshot 2025-05-27 162944](https://github.com/user-attachments/assets/f152ddd5-db11-4070-bbf0-cced273063c6)
+![Screenshot 2025-05-27 163008](https://github.com/user-attachments/assets/eccbfd21-2479-4881-b4a7-c3ad09b802ff)
+![Screenshot 2025-05-27 163120](https://github.com/user-attachments/assets/f49197e9-5441-4251-a754-51e4cc40efce)
+
+
